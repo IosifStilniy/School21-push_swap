@@ -57,3 +57,7 @@ To illustrate the effect of some of these instructions, let’s sort a random li
 In this example, we’ll consider that both stacks grow from the right.
 
 <img width="896" alt="Screen Shot 2022-09-04 at 16 08 11" src="https://user-images.githubusercontent.com/89987795/188315186-2887019e-e21d-4b1c-8c30-8933b65751af.png">
+
+---
+
+<img width="1186" alt="Screen Shot 2022-09-04 at 19 20 32" src="https://user-images.githubusercontent.com/89987795/188323280-e87b5ee4-8648-4557-aec5-b213f92d7e31.png">
